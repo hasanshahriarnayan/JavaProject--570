@@ -1,0 +1,3 @@
+Biryani,250
+Kebab,180
+Butter Chicken,350
